@@ -1,0 +1,8 @@
+.post {
+  margin-bottom: 2rem;
+}
+
+.postDeleted {
+  opacity: 0.3;
+  margin-bottom: 2rem;
+}
